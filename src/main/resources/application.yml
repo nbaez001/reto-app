@@ -1,0 +1,5 @@
+server:
+  port: 8080
+services:
+  api:
+    users: https://reqres.in/api/users
